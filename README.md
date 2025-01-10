@@ -40,6 +40,15 @@ PORT=3000
 ```bash
 npm start
 ```
-The server will start running on http://localhost:3000.
+---
+The server will start running on http://localhost:3000
 ---
 MongoDB Atlas link: https://cloud.mongodb.com/v2/67812c292eaf6b0759d695ef#/metrics/replicaSet/67812cdd02ec79698c3a717e/explorer/test/cryptodatas/find
+
+## **API**
+1. https://crypto-tracker-tf6u.onrender.com/api/stats?coin=bitcoin
+2. https://crypto-tracker-tf6u.onrender.com/api/stats?coin=matic-network
+3. https://crypto-tracker-tf6u.onrender.com/api/stats?coin=ethereum
+4. https://crypto-tracker-tf6u.onrender.com/api/deviation?coin=bitcoin
+5. https://crypto-tracker-tf6u.onrender.com/api/deviation?coin=matic-network
+6. https://crypto-tracker-tf6u.onrender.com/api/deviation?coin=ethereum
